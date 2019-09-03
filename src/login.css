@@ -1,0 +1,21 @@
+.ui-view {
+  height: 100vh;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.login-view {
+  min-height: 400px;
+  min-width: 500px;
+  margin: 0 auto;
+  box-shadow: 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.input-box-holder {
+  text-align: center;
+}
